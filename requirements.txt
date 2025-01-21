@@ -1,0 +1,8 @@
+fire
+h5py
+matplotlib
+pandas
+pytorch_lightning
+scikit-learn
+scikit-learn-extra
+torch
